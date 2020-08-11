@@ -1,0 +1,4 @@
+accuracy_baseline: 0.864
+accuracy_grid_search: 0.88
+accuracy_augment: 0.856
+accuracy_augment_grid_search: 0.864
